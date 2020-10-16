@@ -1,0 +1,7 @@
+moreover, we are usually dealing with more than one variable at
+once, and thinking of the way in which one variable depends on the
+other: for instance, we think of the way in which the height reached
+by a projectile depends on the time of attaining that height. or we
+are asked to consider a rectangle of given area, and to enquire how any
+increase in the length of it will compel a corresponding decrease in the
+breadth of it.
