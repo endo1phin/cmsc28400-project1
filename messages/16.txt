@@ -1,0 +1,6 @@
+all through the calculus we are dealing with quantities that are growing, and with rates of growth. we classify all quantities into two classes:
+constants and variables. those which we regard as of fixed value, and
+call constants, we generally denote algebraically by letters from the beginning of the alphabet, such as a, b, or c; while those which we consider
+as capable of growing, or (as mathematicians say) of varying, we denote by letters from the end of thealphabet, such as x, y, z, u, v, w,
+or sometimes t.
+
